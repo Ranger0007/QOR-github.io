@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SE.github.io</id>
-    <title>Ranger504</title>
-    <updated>2020-05-14T04:52:08.949Z</updated>
+    <title>Ranger</title>
+    <updated>2020-05-14T04:57:16.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SE.github.io"/>
     <link rel="self" href="https://SE.github.io/atom.xml"/>
     <subtitle>小白起步ing</subtitle>
     <logo>https://SE.github.io/images/avatar.png</logo>
     <icon>https://SE.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Ranger504</rights>
+    <rights>All rights reserved 2020, Ranger</rights>
     <entry>
         <title type="html"><![CDATA[第一篇文章--striking]]></title>
         <id>https://SE.github.io/post/di-yi-pian-wen-zhang/</id>
         <link href="https://SE.github.io/post/di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-05-14T01:38:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>Work hard linear with the workout.💪💪💪💪</p>
+        <summary type="html"><![CDATA[<p>The work hard linear with the workout.💪💪💪💪</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Work hard linear with the workout.💪💪💪💪</p>
+        <content type="html"><![CDATA[<p>The work hard linear with the workout.💪💪💪💪</p>
 <!-- more -->
 <p>Time</p>
 <!-- more -->
