@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://SE.github.io</id>
+    <id>https://ranger404.github.io</id>
     <title>Ranger</title>
-    <updated>2020-05-14T10:33:39.427Z</updated>
+    <updated>2020-05-14T10:34:58.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://SE.github.io"/>
-    <link rel="self" href="https://SE.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ranger404.github.io"/>
+    <link rel="self" href="https://ranger404.github.io/atom.xml"/>
     <subtitle>小白起步ing</subtitle>
-    <logo>https://SE.github.io/images/avatar.png</logo>
-    <icon>https://SE.github.io/favicon.ico</icon>
+    <logo>https://ranger404.github.io/images/avatar.png</logo>
+    <icon>https://ranger404.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ranger</rights>
     <entry>
         <title type="html"><![CDATA[第一篇文章--striking]]></title>
-        <id>https://SE.github.io/post/di-yi-pian-wen-zhang/</id>
-        <link href="https://SE.github.io/post/di-yi-pian-wen-zhang/">
+        <id>https://ranger404.github.io/post/di-yi-pian-wen-zhang/</id>
+        <link href="https://ranger404.github.io/post/di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-05-14T01:38:27.000Z</updated>
         <summary type="html"><![CDATA[<p>The work hard linear with the workout.💪💪💪💪</p>
@@ -47,14 +47,14 @@
 你没有领先。You’re not EARLY.<br>
 在命运为你安排的属于自己的时区里，一切都准时。You are very much ON TIME, and in your TIME ZONE Destiny set up for you.</p>
 <!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://SE.github.io/post-images/1589431817560.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://ranger404.github.io/post-images/1589431817560.jpg" alt="" loading="lazy"></figure>
 <!-- more -->
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://SE.github.io/post/hello-gridea/</id>
-        <link href="https://SE.github.io/post/hello-gridea/">
+        <id>https://ranger404.github.io/post/hello-gridea/</id>
+        <link href="https://ranger404.github.io/post/hello-gridea/">
         </link>
         <updated>2020-05-13T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
